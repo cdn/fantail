@@ -11,5 +11,6 @@
         />
     <item android:id="@+id/action_signout"
         android:title="@string/action_signout"
+        android:orderInCategory="200"
         android:showAsAction="never" />
 </menu>
