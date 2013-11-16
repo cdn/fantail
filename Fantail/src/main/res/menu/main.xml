@@ -9,6 +9,11 @@
         android:icon="@drawable/ic_action_new"
         android:showAsAction="always"
         />
+    <item android:id="@+id/action_refresh"
+          android:title="Refresh"
+          android:icon="@drawable/ic_action_refresh"
+          android:showAsAction="always"
+    />
     <item android:id="@+id/action_signout"
         android:title="@string/action_signout"
         android:orderInCategory="200"
